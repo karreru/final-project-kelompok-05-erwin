@@ -1,4 +1,4 @@
-8# final-project-kelompok-05-erwin
+# final-project-kelompok-05-erwin
 Anggota Kelompok:
 - Sekar Puspita Sari
 - Arijuddin Muhammad Rahmatul Qalbi
