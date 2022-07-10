@@ -1,4 +1,4 @@
-# final-project-kelompok-05-erwin
+8# final-project-kelompok-05-erwin
 Anggota Kelompok:
 - Sekar Puspita Sari
 - Arijuddin Muhammad Rahmatul Qalbi
@@ -15,4 +15,4 @@ Final Model: DecisionTreeClassifier
 
 Link Repositori: https://github.com/karreru/final-project-kelompok-05-erwin
 
-Link PPT: <link presentasi dalam google slides> 
+Link PPT: https://docs.google.com/presentation/d/14r5JUWdW4BEBTBgWSkGxq5o0DGd-kX92/edit?usp=sharing&ouid=117736015805706110582&rtpof=true&sd=true
